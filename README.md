@@ -147,6 +147,4 @@ A detailed business report explaining the exploratory analysis, regression model
 
 **Aryaman Modi**
 
-LinkedIn: *(Add your LinkedIn URL)*
-
-GitHub: https://github.com/Aryaman-Modi
+LinkedIn: www.linkedin.com/in/aryaman-modi-8a834a200
